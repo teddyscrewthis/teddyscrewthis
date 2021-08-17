@@ -1,0 +1,3 @@
+- Sneaker Bot "Dev"
+- Discord: Nibiru#1818
+- Python, Javascript(basic knowlage)
