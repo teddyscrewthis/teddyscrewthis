@@ -1,3 +1,3 @@
 - Sneaker Bot Dev
-- Discord: Nibiru#1818
-- Python & Simple Javascript
+- Discord: starstruck#1818
+- Python
