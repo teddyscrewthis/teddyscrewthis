@@ -1,5 +1,4 @@
 #Information
-- Age: 14
 - Resides: California
 - Languages: Python | Typescript (Still learning)
 - Discord: starstruck#1818
