@@ -12,5 +12,5 @@
 
 ## 💬 Information 💬
 - TimeZone  ⇨ PST
-- Work      ⇨ just post random projects I am making/made.
-- Other     ⇨ Won't be held accountable for any damages that may be caused by my projects. Use them at your own risk.
+- Work      ⇨ I just post random projects I am making/made.
+- Other     ⇨ I Won't be held accountable for any damages that may be caused by my projects. Use them at your own risk.
