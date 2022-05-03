@@ -4,10 +4,10 @@
 ## 📞 Contact 📞
   - Twitter ⇨ statuscode202
   - Discord ⇨ I'll add this later
+  - Website ⇨ Coming soon.
 
 ## 💬 Information 💬
 - TimeZone  ⇨ PST
 - Languages ⇨ Python | C++
-- Website   ⇨ Coming soon.
 - Work      ⇨ just post random projects I am making/made.
 - Other     ⇨ Won't be held accountable for any damages that may be caused by my projects. Use them at your own risk.
