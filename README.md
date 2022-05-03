@@ -6,7 +6,7 @@
   - 💻 C++     ![This is an Image](https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_16x16.png?raw=true) 
 
 ## 📞 Contact 📞
-  - Twitter ⇨ statuscode202
+  - Twitter  ⇨ statuscode202
   - Discord ⇨ I'll add this later
   - Website ⇨ Coming soon.
 
