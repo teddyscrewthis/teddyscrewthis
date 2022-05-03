@@ -2,7 +2,7 @@
   I mainly code in python but use c++ for some projects. I mainly post random projects that I create when I'm bored but I am also learning how to make game hacks. I enjoy making software that helps absolutely no one and will ruin peoples day.
 
 ## Languages
-  - 💻 Python ![This is an Image](https://www.iconninja.com/files/563/408/18/python-logo-icon.png)
+  - 💻 Python ![This is an Image](https://cdn.iconscout.com/icon/free/png-64/python-3521655-2945099.png)
   - 💻 C++ 
 
 ## 📞 Contact 📞
