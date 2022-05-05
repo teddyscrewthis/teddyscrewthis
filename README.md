@@ -1,6 +1,5 @@
 ## 💖 About me 💖
-  I mainly code in python but use c++ for some projects. I mainly post random projects that I create when I'm bored but I am also learning how to make game hacks. I enjoy making software that helps absolutely no one and will ruin peoples day.
-
+  Hello, I'm Teddy, I mainly code in Python but also use c++. Currently learning how to make game cheats/hacks. I mainly write programs that I use to make my life easier or projects I make when I'm bored.
 ## Languages
   - 💻 Python  ![This is an Image](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_16x16.png?raw=true)
   - 💻 C++     ![This is an Image](https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_16x16.png?raw=true) 
