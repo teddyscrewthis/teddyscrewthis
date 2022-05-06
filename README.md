@@ -12,4 +12,4 @@
 ## 💬 Information 💬
 - TimeZone  ⇨ PST
 - Work      ⇨ I just post random projects I am making/made.
-- Other     ⇨ I Won't be held accountable for any damages that may be caused by my projects. Use them at your own risk.
+- Other     ⇨  All projects are educational purposes only. I won't be held accountable for any damages that may be caused by my projects. Use them at your own risk.
